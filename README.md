@@ -10,7 +10,7 @@ An end-to-end statistical analysis of the Medical Cost Personal dataset
 (1,338 records) — EDA, hypothesis testing, OLS regression with
 Gauss-Markov diagnostics, and an interactive Streamlit dashboard.
 
-Live app: https://202618040ds604-excltszsxn8jujfq2jbtjt.streamlit.app
+Live app: https://202618040ds604-zfumgsx9uqrbhgrfvzy2vr.streamlit.app/
 
 
 DATASET
