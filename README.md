@@ -226,3 +226,28 @@ AUTHOR
 
 Hitesh Rathod - Roll No. 202618040
 DS602: Fundamentals of Data Science - Lab 4
+
+
+
+
+SCREENSHOTS
+
+Tab 1 - Data Exploration (top half)
+
+![Tab 1 top](LAB04/docs/screenshots/tab1_exploration_a.png)
+
+Tab 1 - Data Exploration (bottom half)
+
+![Tab 1 bottom](LAB04/docs/screenshots/tab1_exploration_b.png)
+
+Tab 2 - Hypothesis Testing (top half)
+
+![Tab 2 top](LAB04/docs/screenshots/tab2_hypothesis_a.png)
+
+Tab 2 - Hypothesis Testing (bottom half)
+
+![Tab 2 bottom](LAB04/docs/screenshots/tab2_hypothesis_b.png)
+
+Tab 3 - Prediction and Diagnostics
+
+![Tab 3](LAB04/docs/screenshots/tab3_prediction.png)
